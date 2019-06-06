@@ -4,7 +4,7 @@ D-Bus is a message bus that Linux systems use in order to make programs communic
 
 Here I have implemented a small D-Bus service and a client to consume it. 
 
-### How to run it
+## How to run it
 
 Run the service we wrote in a terminal and run the client from another terminal, you should get the time printed on your console.
 
