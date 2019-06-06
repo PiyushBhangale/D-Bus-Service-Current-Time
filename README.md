@@ -2,7 +2,9 @@
 
 D-Bus is a message bus that Linux systems use in order to make programs communicate with each other or with the system itself. It allows applications to integrate amongst themselves using well-defined interfaces. This allows each application to provide services that can be used by others, sort of like adding API’s to your programs.
 
-Here I have implemented a small D-Bus service and a client to consume it. 
+Here I have implemented a small D-Bus service and a client to consume it. It returns the current time. 
+
+![alt text](https://github.com/PiyushBhangale/D-Bus-Service-Current-Time/blob/master/ezgif.com-video-to-gif.gif)
 
 ## How to run it
 
