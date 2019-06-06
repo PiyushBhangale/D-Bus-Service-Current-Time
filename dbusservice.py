@@ -27,5 +27,9 @@ if __name__ == '__main__':
 
     loop = GLib.MainLoop()
     object = Time()
-    # print(object.CurrentTime())
+    print("########")
+    time.sleep(0.2)
+    print("######################")
+    time.sleep(0.2)
+    print("The newly created DBus service is running... ")
     loop.run()
